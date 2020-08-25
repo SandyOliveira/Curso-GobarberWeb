@@ -8,3 +8,6 @@ History
 Reactotron
 
 >> yarn add reactotron-react-js
+
+PropTypes
+>> yarn add prop-types
