@@ -11,3 +11,6 @@ Reactotron
 
 PropTypes
 >> yarn add prop-types
+
+Styled-Component
+>> yarn add styled-components
